@@ -1,0 +1,36 @@
+{
+    "sendTranscripts":{
+        "enableChannel":false,
+        "enableDM":false,
+
+        "channel":"1241065822735044798",
+        "useHTMLtranscripts":true
+    },
+    "style":{
+        "background":{
+            "enableCustomBackground":false,
+            "backgroundModus":"https://cdn.discordapp.com/attachments/1241065821984264322/1241755352509321328/logo.png?ex=665494ca&is=6653434a&hm=4d39e2dfa92187cff058bc7438e58ed1bedee3168a822e4c20f16775734230c9&",
+            "backgroundData":"https://cdn.discordapp.com/attachments/1241065821984264322/1241755205167747092/banner.png?ex=665494a7&is=66534327&hm=eefeb04dc03368ba9107a71f1db63b7b103b8ecb5bd532f4cf533cd575397bc5&"
+            
+        },
+        "header":{
+            "enableCustomHeader":false,
+            "backgroundColor":"#202225",
+            "decoColor":"#F8BA00",
+            "textColor":"#ffffff"
+            
+        },
+        "stats":{
+            "enableCustomStats":false,
+            "backgroundColor":"#202225",
+            "keyTextColor":"#737373",
+            "valueTextColor":"#ffffff",
+            "hideBackgroundColor":"#40444a",
+            "hideTextColor":"#ffffff"
+        },
+        "favicon":{
+            "enableCustomFavicon":false,
+            "imageUrl":"https://transcripts.dj-dj.be/favicon.png"
+        }
+    }
+}
